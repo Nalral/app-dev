@@ -3,8 +3,6 @@ My first repository
 
 # My Favorite Movie: *A Dog's Purpose*
 
-![A Dog's Purpose Poster](https://upload.wikimedia.org/wikipedia/en/7/7b/A_Dog%27s_Purpose_film_poster.jpg)
-
 ## Overview
 **Title:** A Dog's Purpose  
 **Genre:** Adventure, Comedy, Drama  
